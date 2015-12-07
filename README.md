@@ -1,0 +1,1 @@
+initial notes for shader and three.js demos
